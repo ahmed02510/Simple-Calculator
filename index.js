@@ -23,3 +23,5 @@ else if (answer.operator === "multiplication") {
 else if (answer.operator === "division") {
     console.log(answer.firstnumber / answer.secondnumber);
 }
+console.log("End done");
+// (package.json)version me first 1 mean major change in ts... second 0 means minor change in ts.. third 2 means minot text chnge
